@@ -1,0 +1,531 @@
+{
+ "contest": "news-image-20261122",
+ "day": "2026-11-22",
+ "weekday": "Sunday",
+ "total_stories": 32,
+ "deck": "186 drones over Ukraine in the night · COP31 deal lands with no fossil fuels · Iran's radar claim meets Bahrain's denial",
+ "heroes": [
+  {
+   "headline": "Russia launches 186 drones at Ukraine overnight",
+   "icon": "shield",
+   "id": "I4",
+   "pill": "CONFIRMED",
+   "pin": [
+    0.545,
+    0.18
+   ],
+   "region": "EUROPE",
+   "source": "Ukrainian Air Force",
+   "sub": "161 downed; Dymer flat hit, 6 killed"
+  },
+  {
+   "headline": "Climate deal lands with no mention of fossil fuels",
+   "icon": "globe",
+   "id": "L2",
+   "pill": "CONFIRMED",
+   "pin": [
+    0.58,
+    0.28
+   ],
+   "region": "ASIA-PACIFIC",
+   "source": "Reuters",
+   "sub": "Final text agreed; formal approval still pending"
+  },
+  {
+   "headline": "Iran claims strike on US bases in Bahrain",
+   "icon": "target",
+   "id": "I5",
+   "pill": "CLAIM",
+   "pin": [
+    0.64,
+    0.44
+   ],
+   "region": "MIDDLE EAST",
+   "source": "IRGC, Bahrain",
+   "sub": "Tehran claims two US bases hit; US denies"
+  }
+ ],
+ "grid": [
+  {
+   "headline": "Two supertankers hit mines near Strait of Hormuz",
+   "icon": "tanker",
+   "id": "L1",
+   "pill": "REPORTED",
+   "pin": [
+    0.68,
+    0.47
+   ],
+   "region": "MIDDLE EAST",
+   "source": "Al Jazeera, UKMTO",
+   "sub": "Two tankers ablaze; US escorts continue"
+  },
+  {
+   "headline": "Democrats win biggest House majority since 1992",
+   "icon": "capitol",
+   "id": "L3",
+   "pill": "CONFIRMED",
+   "pin": [
+    0.24,
+    0.3
+   ],
+   "region": "AMERICAS",
+   "source": "AP",
+   "sub": "Recount flips seat; divided gov't ahead"
+  },
+  {
+   "headline": "Sparta II still burning in Gulf of Finland",
+   "icon": "ship",
+   "id": "I6",
+   "pill": "ONGOING",
+   "pin": [
+    0.575,
+    0.075
+   ],
+   "region": "EUROPE",
+   "source": "CNN",
+   "sub": "Hit by two drones Sat.; crew of 16 safe"
+  },
+  {
+   "headline": "Hong Kong votes in Election Committee poll",
+   "icon": "ballot",
+   "id": "I7",
+   "pill": "CONFIRMED",
+   "pin": [
+    0.83,
+    0.42
+   ],
+   "region": "ASIA-PACIFIC",
+   "source": "China Daily",
+   "sub": "856 candidates, 723 seats; turnout 98.8%"
+  },
+  {
+   "headline": "Alcaraz wins first ATP Finals title",
+   "icon": "tennis",
+   "id": "I8",
+   "pill": "CONFIRMED",
+   "pin": [
+    0.505,
+    0.24
+   ],
+   "region": "EUROPE",
+   "source": "Reuters",
+   "sub": "Beats No. 1 Zverev 6-2, 7-6 in Turin"
+  },
+  {
+   "headline": "Verstappen wins Las Vegas Grand Prix",
+   "icon": "flag",
+   "id": "I12",
+   "pill": "CONFIRMED",
+   "pin": [
+    0.17,
+    0.35
+   ],
+   "region": "AMERICAS",
+   "source": "ESPN",
+   "sub": "Third win in four years on the Strip"
+  },
+  {
+   "headline": "Bolsonaro stable in intensive care in Brasilia",
+   "id": "A32",
+   "pill": "ONGOING",
+   "region": "AMERICAS",
+   "source": "Reuters",
+   "pin": [
+    0.28,
+    0.62
+   ],
+   "sub": "Stable in ICU in Brasilia",
+   "icon": "cross"
+  },
+  {
+   "headline": "Iran begins rolling power cuts as winter nears",
+   "id": "A33",
+   "pill": "CONFIRMED",
+   "region": "MIDDLE EAST",
+   "source": "RFE/RL",
+   "pin": [
+    0.66,
+    0.3
+   ],
+   "sub": "Tavanir announces rolling cuts",
+   "icon": "bolt"
+  },
+  {
+   "headline": "Candy factory fire kills 3; 36 workers missing",
+   "id": "A24",
+   "pill": "REPORTED",
+   "region": "ASIA-PACIFIC",
+   "source": "AP",
+   "pin": [
+    0.86,
+    0.58
+   ],
+   "sub": "36 workers missing after blaze",
+   "icon": "flame"
+  },
+  {
+   "headline": "Saudi intercepts Houthi drone and missile",
+   "id": "A17",
+   "pill": "REPORTED",
+   "region": "MIDDLE EAST",
+   "source": "Saudi Press",
+   "pin": [
+    0.58,
+    0.44
+   ],
+   "sub": "Houthi drone, missile intercepted",
+   "icon": "shield"
+  }
+ ],
+ "also": [
+  {
+   "headline": "Liverpool thrash Man Utd 4-0 at Anfield",
+   "icon": "football",
+   "id": "I9",
+   "pill": "CONFIRMED",
+   "pin": [
+    0.465,
+    0.16
+   ],
+   "region": "EUROPE",
+   "source": "BBC Sport",
+   "sub": "Pochettino debut ends in rout",
+   "loc": "Liverpool"
+  },
+  {
+   "headline": "Thitikul wins LPGA finale for third year in a row",
+   "icon": "golf",
+   "id": "I11",
+   "pill": "CONFIRMED",
+   "pin": [
+    0.255,
+    0.44
+   ],
+   "region": "AMERICAS",
+   "source": "BBC Sport",
+   "sub": "Final-round 65 seals CME Group title",
+   "loc": "Florida"
+  },
+  {
+   "headline": "Wembanyama drops 50 as Spurs roll on",
+   "icon": "basketball",
+   "id": "I13",
+   "pill": "CONFIRMED",
+   "pin": [
+    0.215,
+    0.42
+   ],
+   "region": "AMERICAS",
+   "source": "AP",
+   "sub": "50 pts, 19 rebs in 114-91 win",
+   "loc": "San Antonio"
+  },
+  {
+   "headline": "Sudan drones kill 4 near Khartoum, hit UN building",
+   "id": "A14",
+   "pill": "REPORTED",
+   "region": "AFRICA",
+   "source": "Wires",
+   "pin": [
+    0.585,
+    0.52
+   ],
+   "loc": "Khartoum"
+  },
+  {
+   "headline": "Russian corvette Merkury hit by drone at Benghazi",
+   "id": "A15",
+   "pill": "REPORTED",
+   "region": "AFRICA",
+   "source": "Reuters",
+   "pin": [
+    0.51,
+    0.27
+   ],
+   "loc": "Benghazi"
+  },
+  {
+   "headline": "Iran unveils underground 'missile city'",
+   "id": "A16",
+   "pill": "REPORTED",
+   "region": "MIDDLE EAST",
+   "source": "Wires",
+   "pin": [
+    0.66,
+    0.36
+   ],
+   "loc": "Iran"
+  },
+  {
+   "headline": "Ex-Italian police chief found dead amid Sicily inquiry",
+   "id": "A18",
+   "pill": "REPORTED",
+   "region": "EUROPE",
+   "source": "Wires",
+   "pin": [
+    0.505,
+    0.26
+   ],
+   "loc": "Sicily"
+  },
+  {
+   "headline": "Europe protests for third day over costs and housing",
+   "id": "A19",
+   "pill": "ONGOING",
+   "region": "EUROPE",
+   "source": "Wires",
+   "pin": [
+    0.48,
+    0.16
+   ],
+   "loc": "Europe"
+  },
+  {
+   "headline": "Settlers burn vehicles, spray graffiti in West Bank",
+   "id": "A20",
+   "pill": "REPORTED",
+   "region": "MIDDLE EAST",
+   "source": "Wires",
+   "pin": [
+    0.59,
+    0.3
+   ],
+   "loc": "West Bank"
+  },
+  {
+   "headline": "Blast at Benghazi naval base ammunition depot",
+   "id": "A21",
+   "pill": "REPORTED",
+   "region": "AFRICA",
+   "source": "Wires",
+   "pin": [
+    0.545,
+    0.325
+   ],
+   "loc": "Benghazi"
+  },
+  {
+   "headline": "Eisenkot and Likud open unity government talks",
+   "id": "A22",
+   "pill": "ONGOING",
+   "region": "MIDDLE EAST",
+   "source": "Wires",
+   "pin": [
+    0.61,
+    0.34
+   ],
+   "loc": "Israel"
+  },
+  {
+   "headline": "Finland: war spilling over after Baltic ship strike",
+   "id": "A23",
+   "pill": "REPORTED",
+   "region": "EUROPE",
+   "source": "Wires",
+   "pin": [
+    0.545,
+    0.1
+   ],
+   "loc": "Finland"
+  },
+  {
+   "headline": "Bahrain blames Iran for industrial site strike",
+   "id": "A25",
+   "pill": "CLAIM",
+   "region": "MIDDLE EAST",
+   "source": "Wires",
+   "pin": [
+    0.635,
+    0.395
+   ],
+   "loc": "Bahrain"
+  },
+  {
+   "headline": "Aoun: Israel out, all weapons under state control",
+   "id": "A26",
+   "pill": "REPORTED",
+   "region": "MIDDLE EAST",
+   "source": "Wires",
+   "pin": [
+    0.615,
+    0.27
+   ],
+   "loc": "Lebanon"
+  },
+  {
+   "headline": "Displaced Palestinians protest as Gaza strikes go on",
+   "id": "A27",
+   "pill": "REPORTED",
+   "region": "MIDDLE EAST",
+   "source": "Wires",
+   "pin": [
+    0.6,
+    0.375
+   ],
+   "loc": "Gaza"
+  },
+  {
+   "headline": "Pezeshkian: Iran in 'silent economic war'",
+   "id": "A28",
+   "pill": "REPORTED",
+   "region": "MIDDLE EAST",
+   "source": "Wires",
+   "pin": [
+    0.69,
+    0.38
+   ],
+   "loc": "Tehran"
+  },
+  {
+   "headline": "Fred Nile, NSW political figurehead, dies at 92",
+   "id": "A29",
+   "pill": "CONFIRMED",
+   "region": "OCEANIA",
+   "source": "Wires",
+   "pin": [
+    0.89,
+    0.7
+   ],
+   "loc": "NSW"
+  },
+  {
+   "headline": "Gaza death toll since Oct 2025 reaches 1,661",
+   "id": "A30",
+   "pill": "REPORTED",
+   "region": "MIDDLE EAST",
+   "source": "Wires",
+   "pin": [
+    0.615,
+    0.41
+   ],
+   "loc": "Gaza"
+  },
+  {
+   "headline": "India piles up 720/9 in Wellington Test",
+   "id": "A31",
+   "pill": "CONFIRMED",
+   "region": "OCEANIA",
+   "source": "Reuters",
+   "pin": [
+    0.93,
+    0.78
+   ],
+   "loc": "Wellington"
+  }
+ ],
+ "regions": [
+  {
+   "name": "EUROPE",
+   "count": 7
+  },
+  {
+   "name": "MIDDLE EAST",
+   "count": 12
+  },
+  {
+   "name": "AMERICAS",
+   "count": 5
+  },
+  {
+   "name": "ASIA-PACIFIC",
+   "count": 3
+  },
+  {
+   "name": "AFRICA",
+   "count": 3
+  },
+  {
+   "name": "OCEANIA",
+   "count": 2
+  }
+ ],
+ "numbers": [
+  {
+   "value": "186",
+   "label": "drones launched"
+  },
+  {
+   "value": "161",
+   "label": "drones downed"
+  },
+  {
+   "value": "723",
+   "label": "Hong Kong seats"
+  },
+  {
+   "value": "720/9",
+   "label": "India in Wellington Test"
+  },
+  {
+   "value": "6-2, 7-6",
+   "label": "Alcaraz beats Zverev"
+  },
+  {
+   "value": "50",
+   "label": "Wembanyama points"
+  }
+ ],
+ "timeline": [
+  {
+   "time": "00:04",
+   "label": "Gaza toll reaches 1,661"
+  },
+  {
+   "time": "02:09",
+   "label": "Pezeshkian: 'silent economic war'"
+  },
+  {
+   "time": "06:15",
+   "label": "Finland: war spilling over"
+  },
+  {
+   "time": "09:53",
+   "label": "UAE condemns Bahrain attack"
+  },
+  {
+   "time": "12:00",
+   "label": "COP31 deal lands"
+  },
+  {
+   "time": "17:13",
+   "label": "Tankers hit mines off Hormuz"
+  }
+ ],
+ "date_check_excluded": [
+  {
+   "date": "19-20 Nov 2026",
+   "story": "Russia's 400-drone / 110-missile strike on Ukraine",
+   "why": "happened 19-20 Nov, NOT Sunday"
+  },
+  {
+   "date": "19 Nov 2026",
+   "story": "ICJ rules Myanmar committed Rohingya genocide",
+   "why": "ruled 19 Nov, not 22 Nov"
+  },
+  {
+   "date": "20 Nov 2026",
+   "story": "Nigeria boat capsizes on way to funeral, 24 dead",
+   "why": "capsized 20 Nov, reported 21 Nov"
+  },
+  {
+   "date": "21 Nov 2026",
+   "story": "Sparta II drone strike itself",
+   "why": "struck Saturday; the Sunday story is the fire still burning"
+  },
+  {
+   "date": "23 Nov 2026",
+   "story": "FIFA confirms UK as 2035 Women's World Cup host",
+   "why": "announced Monday 23 Nov, after this day"
+  },
+  {
+   "date": "Fri 20 Nov 2026",
+   "story": "El Chapo Isidro captured",
+   "why": "captured 20 Nov, NOT Sunday"
+  }
+ ],
+ "date_check_pending": [
+  "COP31 formal approval — final text agreed, vote still pending",
+  "Gaza aid crossings — still blocked, no decision on Sunday"
+ ],
+ "note": "Every story happened or was first reported on Sunday 22 November 2026 (any time zone). El Chapo Isidro's capture happened Friday 20 Nov and is listed under DATE CHECK, not as a story. Unconfirmed claims are marked CLAIM, never stated as fact."
+}
